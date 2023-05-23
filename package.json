@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@azure/identity": "^3.2.2",
+    "@azure/msal-node": "^1.17.2",
+    "@microsoft/microsoft-graph-client": "^3.0.5",
+    "axios": "^1.4.0",
+    "axios-auth-refresh": "^3.3.6",
+    "node-sp-auth": "^3.0.7",
+    "qs": "^6.11.2"
+  }
+}
